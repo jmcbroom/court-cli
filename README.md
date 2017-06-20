@@ -14,8 +14,8 @@ You can use this from the command line, with an action and parameters.
 
 ### action
 
-- `display` prints register of actions to the terminal
-- `download` will download the register of actions as `<casenum>_<timestamp>.txt`
+- `display` prints register of actions to the terminal (along with line numbers)
+- `download` saves the register of actions to `<casenum>_<timestamp>.txt`
 
 ### parameters
 
