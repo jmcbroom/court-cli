@@ -26,10 +26,10 @@ You can use this from the command line, with an action and parameters.
 
 ### example usage
 
-```python
+```bash
 python case36.py display --cnum 135046942 --ctype CC
 ```
 
-```python
+```bash
 python case36.py download --cnum 16322063 --ctype LT
 ```
